@@ -5,9 +5,26 @@
 
 .assortment-table {
   border-collapse: collapse;
-  /* border-bottom: 2px solid lightgray; */
+  text-align: center;
 }
+
 .assortment-table th,
 .assortment-table td {
    border-bottom: 2px solid lightgray;
+   padding: 10px;
+}
+
+.assortment-table th  {
+  font-weight: normal;
+  vertical-align: top;
+}
+
+.assortment-name td {
+  text-align: left;
+  font-weight: bold;
+}
+
+.assortment-price th,
+.assortment-price td {
+  text-align: right;
 }
