@@ -5,6 +5,7 @@
 
 .assortment-table {
   border-collapse: collapse;
+  padding: 10px;
 
 }
 
@@ -20,12 +21,13 @@
   vertical-align: top;
   text-align: center;
 }
-/*
-.assortment-name td {
-  text-align: left;
-  font-weight: bold;
-}
 
+.assortment-table td {
+  font-weight: bold;
+  vertical-align: top;
+  text-align: center;
+}
+/*
 .assortment-price th,
 .assortment-price td {
   text-align: right;
