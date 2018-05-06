@@ -17,12 +17,6 @@
    /* text-align: center; */
 }
 
-.assortment-table th  {
-  font-weight: normal;
-  vertical-align: top;
-  text-align: center;
-}
-
 .assortment-table td {
   text-align: center;
 }
@@ -30,7 +24,20 @@
 .assortment-table .assortment-name {
   text-align: left;
   font-weight: bold;
+  padding-right: 30px;
 }
+
+.assortment-table th  {
+  font-weight: normal;
+  vertical-align: top;
+  text-align: center;
+}
+
+.assortment-table .assortment-price {
+  text-align: left;
+  padding-right: 20px;
+}
+
 /*
 .assortment-price th,
 .assortment-price td {
