@@ -27,6 +27,11 @@
   padding-right: 30px;
 }
 
+.assortment-table .assortment-name-1 {
+  text-align: left;
+  padding-right: 30px;
+}
+
 .assortment-table th  {
   font-weight: normal;
   vertical-align: top;
