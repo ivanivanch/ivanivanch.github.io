@@ -12,14 +12,15 @@
 .assortment-table td {
    border-bottom: 2px solid lightgray;
    /* padding: 10px; */
-   text-align: center;
+   /* text-align: center; */
 }
-/*
+
 .assortment-table th  {
   font-weight: normal;
   vertical-align: top;
+  text-align: center;
 }
-
+/*
 .assortment-name td {
   text-align: left;
   font-weight: bold;
