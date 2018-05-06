@@ -5,15 +5,16 @@
 
 .assortment-table {
   border-collapse: collapse;
-  text-align: center;
+
 }
-/*
+
 .assortment-table th,
 .assortment-table td {
    border-bottom: 2px solid lightgray;
-   padding: 10px;
+   /* padding: 10px; */
+   text-align: center;
 }
-
+/*
 .assortment-table th  {
   font-weight: normal;
   vertical-align: top;
