@@ -11,6 +11,7 @@
 
 .assortment-table th,
 .assortment-table td {
+   padding: 10px;
    border-bottom: 2px solid lightgray;
    /* padding: 10px; */
    /* text-align: center; */
@@ -23,9 +24,12 @@
 }
 
 .assortment-table td {
-  font-weight: bold;
-  vertical-align: top;
   text-align: center;
+}
+
+.assortment-table .assortment-name {
+  text-align: left;
+  font-weight: bold;
 }
 /*
 .assortment-price th,
