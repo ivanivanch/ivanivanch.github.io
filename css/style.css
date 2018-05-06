@@ -2,3 +2,8 @@
   padding: 10px;
   background-color: #eeeeee;
 }
+
+.price-list {
+  border-collapse: collapse;
+  border-bottom: 2px solid lightgray;
+}
